@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "addressBookC", "addressBookC\addressBookC.vcproj", "{D0D170A9-F368-4400-8B26-4460570B9CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D170A9-F368-4400-8B26-4460570B9CDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0D170A9-F368-4400-8B26-4460570B9CDE}.Debug|Win32.Build.0 = Debug|Win32
+		{D0D170A9-F368-4400-8B26-4460570B9CDE}.Release|Win32.ActiveCfg = Release|Win32
+		{D0D170A9-F368-4400-8B26-4460570B9CDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
